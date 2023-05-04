@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RabbitMarket</string>
+    <string name="menu_title_home">홈</string>
+    <string name="menu_title_article" >동네생활</string>
+    <string name="menu_title_gps" >내 근처</string>
+    <string name="menu_title_chat" >채팅</string>
+    <string name="menu_title_myInfo" >내 정보</string>
+</resources>
